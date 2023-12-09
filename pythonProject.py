@@ -26,4 +26,4 @@ if __name__ == "__main__":
     print(f"Subtraction: {result_subtract}")
     print(f"Multiplication: {result_multiply}")
     print(f"Division: {result_divide}")
-    print("Master commit")
+    print("Conflict?")
